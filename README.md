@@ -8,4 +8,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 3. [Chan Plot Diagnostic Tool for Water Breakthrough Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/chan-plot) (Matplotlib)
 4. [Hall Plot Diagnostic for Water Injection Surveillance](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/hall-plot) (Matplotlib)
 5. [PVT Correlation Benchmarking: Standing vs. Glaso vs. Vasquez-Beggs](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/pvt-benchmarking) (Scipy, Matplotlib)
-6. [Crude Oil Viscosity Prediction: Random Forest Regressor](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/viscosity-model) (scikit-learn, matplotlib, seaborn)
+6. [Crude Oil Viscosity Prediction: Random Forest Regressor](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/viscosity-model) (Scikit-Learn, Matplotlib, Seaborn)
