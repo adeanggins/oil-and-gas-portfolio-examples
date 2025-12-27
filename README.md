@@ -11,3 +11,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 6. [Crude Oil Viscosity Prediction: Random Forest Regressor](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/viscosity-model) (Scikit-Learn, Matplotlib, Seaborn)
 7. [Hybrid Physics-ML Calibration: Calibrating Standing Correlation with Residual Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/hybrid-physics-model) (Scikit-Learn, Matplotlib, Seaborn)
 8. [Hybrid EOS Tuning & Viscosity Prediction](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/eos-tuning) (Scikit-Learn, DEAP, Scipy, Matplotlib)
+9. [Phase Envelope Generator & Well Flow Regime Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/phase-envelope) (Pandas, Matplotlib)
