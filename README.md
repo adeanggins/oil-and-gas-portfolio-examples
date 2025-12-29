@@ -13,3 +13,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 8. [Hybrid EOS Tuning & Viscosity Prediction](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/eos-tuning) (Scikit-Learn, DEAP, Scipy, Matplotlib)
 9. [Phase Envelope Generator & Well Flow Regime Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/phase-envelope) (Pandas, Matplotlib)
 10. [EOS-Based Reservoir Compartmentalization Clustering](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/eos-clustering) (Scikit-Learn, Pandas, Matplotlib)
+11. [Missing Log Prediction (Synthetic Logs) using XGBoost](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/missing-log-prediction) (XGBoost, Scikit-Learn, Seaborn)
