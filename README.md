@@ -15,3 +15,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 10. [EOS-Based Reservoir Compartmentalization Clustering](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/eos-clustering) (Scikit-Learn, Pandas, Matplotlib)
 11. [Missing Log Prediction (Synthetic Logs) using XGBoost](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/missing-log-prediction) (XGBoost, Scikit-Learn, Seaborn)
 12. [Electrofacies Classification using Unsupervised Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/electrofacies-classification) (Scikit-Learn, Seaborn, Matplotlib)
+13. [Permeability-Porosity Transforms: Non-Linear Regression](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/permeability-porosity-transform) (Statsmodel, Seaborn, Matplotlib)
