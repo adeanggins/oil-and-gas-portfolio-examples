@@ -1,5 +1,5 @@
 # oil-and-gas-portfolio-examples
-Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Python and SQL solutions driving efficiency in exploration, production, and asset optimization.
+Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Python solutions driving efficiency in exploration, production, and asset optimization.
 
 # Portfolio List
 ## 🪨 Reservoir Engineering
@@ -16,3 +16,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 11. [Missing Log Prediction (Synthetic Logs) using XGBoost](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/missing-log-prediction) (XGBoost, Scikit-Learn, Seaborn)
 12. [Electrofacies Classification using Unsupervised Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/electrofacies-classification) (Scikit-Learn, Seaborn, Matplotlib)
 13. [Permeability-Porosity Transforms: Non-Linear Regression](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/permeability-porosity-transform) (Statsmodel, Seaborn, Matplotlib)
+14. [Automated Saturation Height Function (SHF) Fitting](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/j-function) (Scipy, Seaborn, Matplotlib)
