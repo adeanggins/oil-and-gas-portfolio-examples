@@ -17,3 +17,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 12. [Electrofacies Classification using Unsupervised Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/electrofacies-classification) (Scikit-Learn, Seaborn, Matplotlib)
 13. [Permeability-Porosity Transforms: Non-Linear Regression](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/permeability-porosity-transform) (Statsmodel, Seaborn, Matplotlib)
 14. [Automated Saturation Height Function (SHF) Fitting](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/j-function) (Scipy, Seaborn, Matplotlib)
+15. [LAS File Bulk Processor & Normalizer](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/las-processor) (Welly, Lasio, Matplotlib)
