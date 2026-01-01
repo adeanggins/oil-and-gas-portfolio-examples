@@ -19,3 +19,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 14. [Automated Saturation Height Function (SHF) Fitting](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/j-function) (Scipy, Seaborn, Matplotlib)
 15. [LAS File Bulk Processor & Normalizer](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/las-processor) (Welly, Lasio, Matplotlib)
 16. [Type Curve Generation & Probability Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/type-curve-generation) (Seaborn, Matplotlib, Pandas)
+17. [Flowing Bottom Hole Pressure (FBHP) Calculation](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/fbhp-calculation) (Matplotlib, Pandas)
