@@ -23,3 +23,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 18. [Real-Time Liquid Loading Prediction (Turner's Method)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/liquid-loading-prediction) (Matplotlib, Pandas)
 19. [Reservoir Simulation Surrogate Modeling with PyTorch](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/reservoir-simulation-surrogate) (PyTorch, Scikit-Learn)
 20. [Time-Series Reservoir Surrogate Modeling with LSTM (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/lstm-reservoir-surrogate) (PyTorch, Scikit-Learn)
+21. [History Matching Error Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/history_matching) (Seaborn, Matplotlib, Pandas)
