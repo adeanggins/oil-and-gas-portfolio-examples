@@ -1,0 +1,5 @@
+Parameter,Distribution,P1,P2
+Porosity,normal,0.20,0.03
+Permeability_mD,lognormal,50,0.8
+Water_Saturation,uniform,0.15,0.35
+Thickness_ft,triangular,50,150
