@@ -30,3 +30,6 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 25. [Streamline-Based Reservoir Connectivity & Drainage Visualization](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/streamline-visualization) (PyVista, Plotly)
 26. [Voronoi Drainage Area Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/voronoi-drainage) (Shapely, Scipy)
 27. [Injector-Producer Connectivity Analysis (CRM)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/crm-analysis) (Scikit-Learn, Scipy)
+
+## 🛢️ Production Engineering
+1. [ESP Failure Prediction: Remaining Useful Life (RUL) with LSTM](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-failure-prediction) (Keras, Tensorflow, Scikit-Learn)
