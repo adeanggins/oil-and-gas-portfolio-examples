@@ -28,3 +28,5 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 23. [Latin Hypercube Sampling (LHS) Generator for Reservoir Simulation](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/lhs-reservoir-sampling) (Scipy, Seaborn, Matplotlib)
 24. [Advanced Reservoir Sensitivity Analysis: LHS with Correlation Control](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/lhs-reservoir-sampling-advanced) (Scikit-Learn, Scipy, Seaborn)
 25. [Streamline-Based Reservoir Connectivity & Drainage Visualization](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/streamline-visualization) (PyVista, Plotly)
+26. [Voronoi Drainage Area Analysis](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/voronoi-drainage) (Shapely, Scipy)
+27. [Injector-Producer Connectivity Analysis (CRM)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/crm-analysis) (Scikit-Learn, Scipy)
