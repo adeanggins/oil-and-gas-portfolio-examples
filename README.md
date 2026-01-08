@@ -34,6 +34,7 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 29. [Probabilistic Reserves Estimation using Monte Carlo Simulation](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/monte-carlo) (Seaborn, Matplotlib, Pandas)
 30. [Value of Information (VOI) Calculator: Oil & Gas Decision Tree](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/voi-calculator) (NetworkX, Matplotlib)
 31. [Oil Price Time-Series Forecasting: ARIMA vs. LSTM](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/oil-price-forecasting) (Scikit-Learn, Tensorflow, Keras, Statsmodels)
+32. [Cash Flow Waterfall Model: PSC Economic Limit Calculator](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/reservoir-engineering/psc-cashflow-model) (Seaborn, Matplotlib, Pandas)
 
 ## 🛢️ Production Engineering
 1. [ESP Failure Prediction: Remaining Useful Life (RUL) with LSTM](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-failure-prediction) (Keras, Tensorflow, Scikit-Learn)
