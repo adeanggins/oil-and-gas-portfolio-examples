@@ -1,0 +1,16 @@
+Well_ID,Workover_Type,Estimated_Cost_USD,Estimated_Gain_BOPD
+Well-001,Acid Stimulation,15000,25
+Well-002,Pump Replacement,45000,60
+Well-003,Hydraulic Frac,120000,150
+Well-004,Zone Isolation,30000,35
+Well-005,Scale Removal,10000,15
+Well-006,Re-perforation,25000,40
+Well-007,Acid Stimulation,18000,22
+Well-008,Pump Replacement,42000,55
+Well-009,Hydraulic Frac,130000,160
+Well-010,Zone Isolation,28000,30
+Well-011,Scale Removal,12000,18
+Well-012,Tubing Patch,55000,50
+Well-013,Re-perforation,24000,38
+Well-014,Acid Stimulation,16000,20
+Well-015,Pump Replacement,48000,65
