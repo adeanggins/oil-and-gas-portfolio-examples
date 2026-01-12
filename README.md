@@ -42,3 +42,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 2. [Rod Pump Failure Prediction using CNNs](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/rod-pump-failure) (Tensorflow, Keras, Scikit-Learn)
 3. [ESP Gas Locking Detection using Random Forest Classification](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/gas-locking-detection) (Scikit-Learn, Seaborn, Matplotlib)
 4. [Virtual Flow Metering (VFM) for ESP using XGBoost](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-vfm) (XGBoost, Scikit-Learn, Seaborn, Matplotlib)
+5. [Pump Efficiency Degradation Analysis (ESP)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/pump-efficiency-degradation) (Scipy, Seaborn, Matplotlib)
