@@ -43,3 +43,5 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 3. [ESP Gas Locking Detection using Random Forest Classification](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/gas-locking-detection) (Scikit-Learn, Seaborn, Matplotlib)
 4. [Virtual Flow Metering (VFM) for ESP using XGBoost](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-vfm) (XGBoost, Scikit-Learn, Seaborn, Matplotlib)
 5. [Pump Efficiency Degradation Analysis (ESP)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/pump-efficiency-degradation) (Scipy, Seaborn, Matplotlib)
+6. [
+ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-startup) (Scikit-Learn, Seaborn, Matplotlib)
