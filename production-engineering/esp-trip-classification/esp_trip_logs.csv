@@ -1,0 +1,26 @@
+Date,Well_ID,Operator_Comment,Standard_Category
+2023-01-01,W-101,ESP tripped on underload setting,Underload
+2023-01-02,W-102,high vibration detected on pump intake,Mechanical
+2023-01-05,W-103,motor temp high shut down,Overheating
+2023-01-10,W-101,ul trip reset and restart,Underload
+2023-01-12,W-105,variable speed drive fault code 303,Electrical
+2023-01-15,W-102,vibration high alarm triggered,Mechanical
+2023-01-18,W-104,cable failure detected during test,Electrical
+2023-01-20,W-103,temp discharge high,Overheating
+2023-01-22,W-101,pump gas locked underload,Gas Lock
+2023-01-25,W-105,short circuit in junction box,Electrical
+2023-01-28,W-102,mech jam suspected high amps,Mechanical
+2023-02-01,W-101,gas interference caused UL,Gas Lock
+2023-02-03,W-103,motor winding temp high,Overheating
+2023-02-05,W-104,drive failure no comms,Electrical
+2023-02-08,W-101,low flow trip underload,Underload
+2023-02-10,W-105,ground fault detected,Electrical
+2023-02-12,W-102,excessive vibration noted,Mechanical
+2023-02-15,W-103,intake temp spike,Overheating
+2023-02-18,W-101,gas lock indications,Gas Lock
+2023-02-20,W-104,fuses blown on surface,Electrical
+2023-02-22,W-101,U/L trip waiting on fluid,Underload
+2023-02-25,W-102,pump seized cannot rotate,Mechanical
+2023-02-27,W-103,MLE failure indicated,Electrical
+2023-03-01,W-101,flowline choked gas lock,Gas Lock
+2023-03-05,W-105,vsd fault overcurrent,Electrical
