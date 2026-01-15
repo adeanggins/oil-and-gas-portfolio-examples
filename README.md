@@ -46,3 +46,4 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 6. [
 ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-startup) (Scikit-Learn, Seaborn, Matplotlib)
 7. [ESP Optimal Frequency Solver](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/optimal-esp-frequency) (Scipy, Seaborn, Matplotlib)
+8. [ESP Trip Cause Classification using NLP](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-trip-classification) (Nltk, Scikit-Learn)
