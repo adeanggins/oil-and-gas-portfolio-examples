@@ -1,4 +1,4 @@
-c# oil-and-gas-portfolio-examples
+# oil-and-gas-portfolio-examples
 Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Python solutions driving efficiency in exploration, production, and asset optimization.
 
 # Portfolio List
@@ -47,3 +47,6 @@ Leveraging Data Science for the Energy Sector: A comprehensive portfolio of Pyth
 ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-startup) (Scikit-Learn, Seaborn, Matplotlib)
 7. [ESP Optimal Frequency Solver](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/optimal-esp-frequency) (Scipy, Seaborn, Matplotlib)
 8. [ESP Trip Cause Classification using NLP](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-trip-classification) (Nltk, Scikit-Learn)
+
+## ⛏️ Drilling Engineering
+1. [Rate of Penetration (ROP) Prediction with Random Forest](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/drilling-engineering/rop-prediction) (Scikit-Learn, Seaborn)
