@@ -51,6 +51,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 
 ## ⛏️ Drilling Engineering
 1. [Rate of Penetration (ROP) Prediction with Random Forest](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/drilling-engineering/rop-prediction) (Scikit-Learn, Seaborn)
+2. [Early Stuck Pipe Detection using Gradient Boosting](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/drilling-engineering/stuck-pipe-detection) (Scikit-Learn, Matplotlib)
 
 ## 🌍 Geoscience & Petrophysics
 1. [Seismic Facies Classification with 2D CNN (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/seismic-facies-cnn) (PyTorch, Scikit-Learn)
