@@ -55,6 +55,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 
 ## 🌍 Geoscience & Petrophysics
 1. [Seismic Facies Classification with 2D CNN (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/seismic-facies-cnn) (PyTorch, Scikit-Learn)
+2. [Automated First-Break Picking: STA/LTA + ML Refinement](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/first-break-picking) (Numpy, Scikit-Learn)
 
 ## 🏭 Facilities & Process Engineering
 1. [Compressor Anomaly Detection with a Dense Autoencoder (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/facilities-process/compressor-anomaly-autoencoder) (PyTorch, Scikit-Learn)
