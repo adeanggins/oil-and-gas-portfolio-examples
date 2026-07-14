@@ -48,6 +48,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 7. [ESP Optimal Frequency Solver](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/optimal-esp-frequency) (Scipy, Seaborn, Matplotlib)
 8. [ESP Trip Cause Classification using NLP](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/esp-trip-classification) (Nltk, Scikit-Learn)
 9. [Gas Lift Allocation Optimization across a Well Group](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/gas-lift-optimization) (Scipy, Matplotlib)
+10. [Choke Flow Rate Prediction: Gilbert Correlation vs. Machine Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/production-engineering/choke-rate-prediction) (Scikit-Learn, Seaborn)
 
 ## ⛏️ Drilling Engineering
 1. [Rate of Penetration (ROP) Prediction with Random Forest](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/drilling-engineering/rop-prediction) (Scikit-Learn, Seaborn)
