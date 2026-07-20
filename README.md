@@ -64,6 +64,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 ## 🏭 Facilities & Process Engineering
 1. [Compressor Anomaly Detection with a Dense Autoencoder (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/facilities-process/compressor-anomaly-autoencoder) (PyTorch, Scikit-Learn)
 2. [Internal Corrosion Rate Prediction: de Waard Model + Random Forest](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/facilities-process/corrosion-rate-prediction) (Scikit-Learn, Seaborn)
+3. [Pipeline Leak Detection with Mass Balance + CUSUM](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/facilities-process/pipeline-leak-detection) (Numpy, Pandas, Matplotlib)
 
 ## 🌱 HSE & Sustainability
 1. [Methane Emission Estimation with Monte Carlo Reconciliation](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/hse-sustainability/methane-emission-estimation) (Numpy, Seaborn)
