@@ -74,6 +74,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 ## 📈 Economics & Planning
 1. [Rig Scheduling Optimization with MILP](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/economics-planning/drilling-schedule-optimization) (PuLP, Pandas)
 2. [Break-Even Price Analysis: Tornado & Two-Way Sensitivity](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/economics-planning/breakeven-sensitivity) (Numpy, Matplotlib)
+3. [Facility CAPEX Estimation with Log-Target Machine Learning](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/economics-planning/capex-cost-estimation) (Scikit-Learn, Seaborn)
 
 ## 🤖 Advanced Analytics & AI
 1. [Physics-Informed Neural Network for 1D Pressure Diffusion (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/advanced-analytics/pinn-darcy-flow) (PyTorch, Matplotlib)
