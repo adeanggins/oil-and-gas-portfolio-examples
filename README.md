@@ -79,3 +79,4 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 ## 🤖 Advanced Analytics & AI
 1. [Physics-Informed Neural Network for 1D Pressure Diffusion (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/advanced-analytics/pinn-darcy-flow) (PyTorch, Matplotlib)
 2. [Conformal Prediction Intervals for Production Forecasts](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/advanced-analytics/conformal-prediction-production) (Scikit-Learn, Numpy)
+3. [EUR Uncertainty with Gradient Boosting Quantile Regression](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/advanced-analytics/quantile-regression-eur) (Scikit-Learn, Seaborn)
