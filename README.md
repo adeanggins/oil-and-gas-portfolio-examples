@@ -74,6 +74,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 1. [Methane Emission Estimation with Monte Carlo Reconciliation](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/hse-sustainability/methane-emission-estimation) (Numpy, Seaborn)
 2. [HSE Incident Narrative Topic Modeling (NMF)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/hse-sustainability/incident-topic-modeling) (Scikit-Learn)
 3. [CO2 Storage Capacity Screening: Probabilistic Estimate](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/hse-sustainability/co2-storage-capacity) (Numpy, Seaborn)
+4. [Produced Water Reuse Classification with Interpretable Trees](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/hse-sustainability/produced-water-quality) (Scikit-Learn, Matplotlib)
 
 ## 📈 Economics & Planning
 1. [Rig Scheduling Optimization with MILP](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/economics-planning/drilling-schedule-optimization) (PuLP, Pandas)
