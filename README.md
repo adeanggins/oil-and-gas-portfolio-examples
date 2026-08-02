@@ -64,6 +64,7 @@ ESP Start-up Transient Analysis: Identifying Hard Starts](https://github.com/ade
 2. [Automated First-Break Picking: STA/LTA + ML Refinement](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/first-break-picking) (Numpy, Scikit-Learn)
 3. [Well Log QC: Outlier Detection with LOF & DBSCAN](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/well-log-outlier-detection) (Scikit-Learn, Seaborn)
 4. [Probabilistic Rock Typing with Gaussian Mixture Models](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/rock-typing-gmm) (Scikit-Learn, Seaborn)
+5. [TOC Prediction: Passey ΔlogR vs. Random Forest](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/geoscience-petrophysics/toc-prediction) (Scikit-Learn, Matplotlib)
 
 ## 🏭 Facilities & Process Engineering
 1. [Compressor Anomaly Detection with a Dense Autoencoder (PyTorch)](https://github.com/adeanggins/oil-and-gas-portfolio-examples/tree/main/facilities-process/compressor-anomaly-autoencoder) (PyTorch, Scikit-Learn)
